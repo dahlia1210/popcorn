@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/popcorn/static/css/main.3d88aef7.css",
-    "main.js": "/popcorn/static/js/main.1191b300.js",
+    "main.js": "/popcorn/static/js/main.a3363f19.js",
     "static/media/Shabnam-FD.ttf": "/popcorn/static/media/Shabnam-FD.15cff6e632acb766caf2.ttf",
     "index.html": "/popcorn/index.html",
     "main.3d88aef7.css.map": "/popcorn/static/css/main.3d88aef7.css.map",
-    "main.1191b300.js.map": "/popcorn/static/js/main.1191b300.js.map"
+    "main.a3363f19.js.map": "/popcorn/static/js/main.a3363f19.js.map"
   },
   "entrypoints": [
     "static/css/main.3d88aef7.css",
-    "static/js/main.1191b300.js"
+    "static/js/main.a3363f19.js"
   ]
 }
