@@ -24,10 +24,10 @@ export function useMovies(query) {
           );
 
           if (!res.ok)
-            throw new Error("Something went wrong with fetching movies");
+            throw new Error("مشکلی در بارگیری فیلم‌ها به وجود آمده است.");
 
           const data = await res.json();
-          if (data.Response === "False") throw new Error("Movie not found");
+          if (data.Response === "False") throw new Error("فیلم یافت نشد.");
 
           setMovies(data.Search);
           setError("");
