@@ -119,6 +119,7 @@ body {
 }
 
 .search {
+  font-family: 'Shabnam-FD';
   justify-self: center;
   border: none;
   padding: 1.1rem 1.6rem;
