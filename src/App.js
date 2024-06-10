@@ -115,7 +115,7 @@ function Search({ query, setQuery }) {
     <input
       className="search"
       type="text"
-      placeholder="Search movies..."
+      placeholder="جستجوی فیلم ..."
       value={query}
       onChange={(e) => setQuery(e.target.value)}
       ref={inputEl}
